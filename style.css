@@ -1,0 +1,91 @@
+table {
+    color: rgb(154, 166, 168);
+    font-weight: bold;
+    border: solid 2px black;
+    width: 80%;
+    height: 600px;
+    margin: 0px auto;
+    margin-top: 40px;
+}
+
+td {
+    border: solid 2px black;
+    text-align: center;
+    margin: 0px;
+}
+
+tr {
+    margin: 0px;
+}
+
+.header {
+    font-weight: bolder;
+}
+
+input {
+    color: rgb(154, 166, 168);
+    font-weight: bolder;
+    width: 40px;
+    text-align: center;
+    border: none;
+    background: rgb(49, 49, 25)
+}
+
+.courses {
+    width: 60px;
+}
+
+button {
+    padding: 15px;
+    border: none;
+    margin: 4px;
+    font-weight: bolder;
+    font-size: 18px;
+    background-color: darkcyan;
+    opacity: 0.7;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    background: red;
+}
+
+.result {
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+.first {
+    background: yellow;
+}
+
+.second {
+    background: green;
+}
+
+.third {
+    background: rgb(155, 42, 42)
+}
+
+.fourth {
+    background: red;
+}
+
+.span {
+    font-size: 25px;
+    animation-delay: 2.5s;
+}
+
+.cool {
+    position: relative;
+    ;
+}
+
+body {
+    background-color: rgb(49, 49, 25);
+}
